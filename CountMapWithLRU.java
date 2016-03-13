@@ -3,9 +3,6 @@ import java.util.List;
 
 /**
  * A map from keys to integer counts.
- *
- * @author Jim Glenn
- * @version 0.1 2015-10-22
  */
 
 public interface CountMapWithLRU<E extends Comparable<? super E>>
