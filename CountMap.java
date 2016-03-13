@@ -3,9 +3,6 @@ import java.util.Map;
 /**
  * A frequency list (or a map from keys to integer frequencies).  Keys
  * can be added or removed and their frequencies can be increased by one.
- *
- * @author Jim Glenn
- * @version 0.1 2015-10-14
  */
 
 public interface CountMap<E>
