@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 /**
  * An adapter to turn any Map into a CountMap.
- *
- * @author Jim Glenn
- * @version 0.1 2015-10-14
  */
 
 public class MapToCountMapAdapter<K> implements CountMap<K>
