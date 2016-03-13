@@ -4,9 +4,6 @@ import java.util.AbstractMap;
 import java.util.List;
 /**
  * A binary search tree.
- *
- * @author Jim Glenn
- * @version 0.1 2014-10-08
  */
 
 public class BSTWithLRU <E extends Comparable<? super E>> implements CountMapWithLRU<E>
